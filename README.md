@@ -131,3 +131,4 @@ showUserData(); // P. Mickelson 43 (from the "user.data").
 # Referencias
 
 http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
